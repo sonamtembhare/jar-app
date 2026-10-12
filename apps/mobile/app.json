@@ -2,6 +2,7 @@
   "expo": {
     "name": "Water Jar Management",
     "slug": "water-jar-management-tdluvwmv3-0rre6xumfwn",
+    "scheme": "waterjarmanagement",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,7 +31,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "1586c5ff-8d87-4177-988d-a9a77ecf06f1"
+        "projectId": "6f5c3d9e-1718-4114-8167-e1503a7d242a"
       }
     }
   }
